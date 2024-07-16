@@ -22,6 +22,7 @@ Este projeto é uma API desenvolvida como parte do programa Generation Brasil, p
 - **Programação em Java**: Linguagem principal utilizada para implementação.
 - **Rest API**: Implementação de uma API RESTful para integração com o frontend.
 - **DDL com MySQL**: Definição de estrutura de banco de dados utilizando SQL.
+- **JWT e Security**: Utilização do JWT para criação de tokens de acessos para usuários.
 
 ## Soft Skills Aplicadas
 
