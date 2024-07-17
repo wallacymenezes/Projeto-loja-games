@@ -22,9 +22,11 @@ Este projeto é uma API desenvolvida como parte do programa Generation Brasil, p
 - **Programação Orientada a Objetos**: Paradigma utilizado para estruturar e modularizar o código.
 - **Programação em Java**: Linguagem principal utilizada para implementação.
 - **Rest API**: Implementação de uma API RESTful para integração com o frontend.
-  ![Rest API](https://velog.velcdn.com/images/0andwild/post/d5804ef2-ddad-4309-ba51-0e3d43389cac/image.png "Rest API")
 - **DDL com MySQL**: Definição de estrutura de banco de dados utilizando SQL.
 - **JWT e Security**: Utilização do JWT para criação de tokens de acessos para usuários.
+
+
+  ![Rest API](https://velog.velcdn.com/images/0andwild/post/d5804ef2-ddad-4309-ba51-0e3d43389cac/image.png "Rest API")
   ![JWT e Security](https://i.ytimg.com/vi/Zl706osvlGY/maxresdefault.jpg "JWT")
 
 
